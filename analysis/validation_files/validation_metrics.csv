@@ -1,0 +1,9 @@
+system,max_traj_diff_inf_norm,mean_traj_diff_inf_norm,eig_diff_inf_norm
+9Bus,2.1e-05,3.2e-06,1.6e-08
+18Bus,1.3e-05,1.5e-06,4.7e-09
+36Bus,1.4e-05,1.6e-06,4.7e-09
+72Bus,3.3e-05,1.4e-06,5.8e-09
+144Bus,3.6e-05,1.2e-06,5.9e-09
+288Bus,7.7e-05,9.8e-07,1.9e-08
+576Bus,1.4e-04,8.6e-07,1.0e-08
+1152Bus,1.8e-04,8.1e-07,1.1e-08

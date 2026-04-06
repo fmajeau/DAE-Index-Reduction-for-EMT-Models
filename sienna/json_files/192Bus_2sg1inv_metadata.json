@@ -1,0 +1,47 @@
+{
+    "name": "",
+    "description": "",
+    "frequency": 60,
+    "time_series_resolutions_milliseconds": [
+    ],
+    "component_counts": [
+        {
+            "type": "ACBus",
+            "count": 192
+        },
+        {
+            "type": "Arc",
+            "count": 224
+        },
+        {
+            "type": "Area",
+            "count": 1
+        },
+        {
+            "type": "DynamicBranch",
+            "count": 224
+        },
+        {
+            "type": "DynamicGenerator{SauerPaiMachine, SingleMass, AVRTypeI, TGFixed, PSSFixed}",
+            "count": 64
+        },
+        {
+            "type": "DynamicInverter{AverageConverter, OuterControl{ActivePowerDroop, ReactivePowerDroop}, VoltageModeControl, FixedDCSource, FixedFrequency, LCLFilter, Nothing}",
+            "count": 32
+        },
+        {
+            "type": "LoadZone",
+            "count": 1
+        },
+        {
+            "type": "StandardLoad",
+            "count": 96
+        },
+        {
+            "type": "ThermalStandard",
+            "count": 96
+        }
+    ],
+    "time_series_counts": [
+    ]
+}
