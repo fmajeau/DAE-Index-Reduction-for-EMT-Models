@@ -1,7 +1,6 @@
 # DAE-Index-Reduction-for-EMT-Models
 
-This repository contains the code and data needed to reproduce the results and figures in **F. Majeau, J.D. Lara, E. Corona, and B.-M. Hodge, "DAE Index Reduction for Electromagnetic Transient Models"**, submitted for review April 2026. 
-
+This repository contains the code and data needed to reproduce the results and figures in **F. Majeau, J.D. Lara, E. Corona, and B.-M. Hodge, "DAE Index Reduction for Electromagnetic Transient Models"** which was submitted for review April 2026 and is [available on arXiv](https://doi.org/10.48550/arXiv.2604.06582).
 
 ## Overview
 This repo builds EMT-dq models of varying sizes with two different implementations
@@ -161,16 +160,18 @@ This material is based upon work supported by the U.S. Department of Energy, Off
 This work utilized the [Alpine high performance computing resource at the University of Colorado Boulder](https://doi.org/10.25811/k3w6-pk81). Alpine is jointly funded by the University of Colorado Boulder, the University of Colorado Anschutz, Colorado State University, and the National Science Foundation (award 2201538).
 
 
-## Citation
+## Citing this repo
 
-If you find this manuscript useful, please kindly cite it as:
+If you find this code and/or manuscript useful, please kindly cite it as:
 
 ```bibtex
-@article{tbd-in-review,
-  title={DAE Index Reduction for Electromagnetic Transient Models},
+@misc{majeau2026daeindexreductionelectromagnetic,
+  title={DAE Index Reduction for Electromagnetic Transient Models}, 
   author={Fiona Majeau and Jose Daniel Lara and Eduardo Corona and Bri-Mathias Hodge},
   year={2026},
-  journal={tbd in review},
-  doi={tbd in review}
+  eprint={2604.06582},
+  archivePrefix={arXiv},
+  primaryClass={eess.SY},
+  doi={https://doi.org/10.48550/arXiv.2604.06582}, 
 }
 ```
